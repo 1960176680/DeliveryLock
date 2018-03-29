@@ -8,12 +8,15 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.ListView;
+
 import com.atfeeling.adapter.deviceAdapter;
 import com.atfeeling.beans.device;
 import com.atfeeling.cb.cb;
 import com.atfeeling.cb.event.e;
+
 import org.json.JSONException;
 import org.json.JSONObject;
+
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
